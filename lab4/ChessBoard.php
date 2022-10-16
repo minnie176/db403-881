@@ -23,7 +23,7 @@
             border: 1px solid black;
             border-spacing: 0;
         }
-        </style>
+    </style>
 </head>
 <body>
    
